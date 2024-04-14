@@ -1,2 +1,2 @@
-macbookpro@macbooks-MacBook-Pro/desktop/ver/solution
+macbookpro@macbooks-MacBook-Pro/desktop/rev/solution
 
